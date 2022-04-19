@@ -1,4 +1,4 @@
-# Progeramming Project Proposal 1
+# Progeramming Project Proposal 1; Dice Game (possibly multiple)
 a description of the project. enough detail to understand the app.
 group members:
 me
@@ -15,7 +15,7 @@ me
 ## Class Diagram
 ![Diagram]()
 
-# Programming Project Proposal 2
+# Programming Project Proposal 2; Connect Four
 a description of the project. enough detail to understand the app.
 group members:
 me
