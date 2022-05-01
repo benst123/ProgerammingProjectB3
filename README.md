@@ -1,5 +1,6 @@
+# Unused
 # Progeramming Project Proposal 1; Dice Game (possibly multiple)
-a description of the project. enough detail to understand the app.
+A simple object oriented game about dice rolling (multiple games may be made but current focus is Yahtzee)
 group members:
 me
 
@@ -15,8 +16,9 @@ me
 ## Class Diagram
 ![Diagram]()
 
+# Used
 # Programming Project Proposal 2; Connect Four
-a description of the project. enough detail to understand the app.
+An object orriented game based on the classic game of connect 4
 group members:
 me
 
