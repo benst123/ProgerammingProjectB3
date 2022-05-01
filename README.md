@@ -1,5 +1,5 @@
 # Unused
-# Progeramming Project Proposal 1; Dice Game (possibly multiple)
+# Programming Project Proposal 1; Dice Game (possibly multiple)
 A simple object oriented game about dice rolling (multiple games may be made but current focus is Yahtzee)
 group members:
 me
